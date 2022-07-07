@@ -1,4 +1,6 @@
-# vue-example
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/HamzaDLM/vue_ci_gh/pages%20build%20and%20deployment?logo=Github)
+
+# Testing Environment
 
 ## Project setup
 ```
